@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+
+            "task": "build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\SinifKavramlari\\SinifKavramlari.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\SinifKavramlari\\SinifKavramlari.csproj",
+            "label": "build sinif",
+            
+            "type": "dotnet",
+         
+            "problemMatcher": [
+              
+            ],
+            
+            "group":{
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\bin\Debug\net8.0\SinifKavramlari.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\bin\Debug\net8.0\SinifKavramlari.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\bin\Debug\net8.0\SinifKavramlari.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\bin\Debug\net8.0\SinifKavramlari.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\bin\Debug\net8.0\SinifKavramlari.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\refint\SinifKavramlari.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\SinifKavramlari.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\SinifKavramlari\obj\Debug\net8.0\ref\SinifKavramlari.dll
